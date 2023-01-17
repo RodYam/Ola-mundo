@@ -1,4 +1,4 @@
 # Olá, mundo!
  Primeiro repositorio versionado
 
- Repositório criado durando uma aula ao vivo.
+ Repositório criado durante uma aula ao vivo.
